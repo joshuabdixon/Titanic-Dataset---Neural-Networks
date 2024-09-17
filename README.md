@@ -1,5 +1,5 @@
 
-# Titanic Dataset - Neural Networks
+# Titanic Survival Prediction with Neural Networks
 
 ## Project Overview
 This project involves building neural network models to predict the survival of passengers on the Titanic. It builds on lessons learned from a previous attempt for a Kaggle competition, specifically from a feature engineering perspective. This version differs in its focus on neural network architectures and optimisation techniques.
