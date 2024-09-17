@@ -13,7 +13,7 @@ This project involves building neural network models to predict the survival of 
 - **Evaluation Metrics:** Used accuracy, loss plots, and visualisations for model comparison.
 - **Libraries:** `TensorFlow`, `Keras`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`.
 
-## Results & Lessons Learned
+## Reflection and Findings
 - **Optimal Configuration:** Found that early stopping and an appropriate balance of regularisation techniques improved model performance and computational efficiency.
 - **Performance Comparison:** While both Adam and RMSProp optimisers achieved similar results, the Adam optimiser provided slightly more consistent accuracy across multiple runs.
   
